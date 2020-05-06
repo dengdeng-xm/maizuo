@@ -1,6 +1,6 @@
 <template>
    <div class="page-films">
-    <h1>电影页面</h1>
+    <router-view/>
  </div>
 </template>
 <script>
